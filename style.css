@@ -115,7 +115,7 @@ input:focus, textarea:focus{
     outline: none;
     box-shadow: 0px 10px 40px -12px #c5c5c5;
     }
-}
+
 
 form textarea{
     resize: none;
